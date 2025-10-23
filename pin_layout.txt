@@ -1,0 +1,6 @@
+GPIO-10 --> Float 7
+GPIO-11 --> Float 6
+GPIO-6 --> Valve relay 5
+GPIO-18 --> Valve relay 8
+GPIO-26 --> FAN1 out
+GPIO-37 --> FAN2 out
