@@ -6,7 +6,7 @@
 /* ======================= ESP32 PIN MAP (ADJUST IF NEEDED) ======================= */
 // Floats (open = HIGH, closed-to-GND = LOW)
 const int FLOAT_TOP_PIN       = 7;     // e.g., ESP32-S3 GPIO7
-const int FLOAT_BOTTOM_PIN    = 16;    // e.g., ESP32-S3 GPIO16
+const int FLOAT_BOTTOM_PIN    = 33;    // e.g., ESP32-S3 GPIO16
 
 // Relays
 const int RELAY_PUMP_PIN      = 17;    // pump relay IN/driver

@@ -1,0 +1,29 @@
+D2 — PIN_T1_HIGH — Tank-1 upper float input
+
+D3 — PIN_T1_LOW — Tank-1 lower float input 
+
+D5 — PIN_VALVE4 — Main discharge valve 4 (output)
+
+D6 — PIN_FAULT_LED — Fault LED (output).
+
+D7 — PIN_VALVE4_LED — Valve-4 status LED (output).
+
+D8 — PIN_PUMP — Pump relay (output).
+
+D9 — PIN_HUMID — Humidifier relay (output).
+
+D10 — PIN_MANUAL_BTN — Manual drain button (input pull-up).
+
+D11 — PIN_VALVE5 — Bypass (Valve 5) to fill Tank-2 (output).
+
+D12 — PIN_VALVE8 — Switching valve (Valve 8) to drain Tank-2 (output).
+
+D13 — PIN_MOTOR_LED — Onboard LED (output).
+
+A0 — SHUNT_ADC_PIN — Pump current sense (analog in, 1.1 V ref)
+
+A1 — PIN_T2_LOW — Tank-2 bottom float (input pull-up). 
+
+A2 — PIN_T2_HIGH — Tank-2 top float (input pull-up).
+
+A3 — PIN_DEFROST — Defrost/heater driver (output).
