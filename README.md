@@ -20,48 +20,6 @@ An open-source IoT controller for a pump-based dehumidifier system. The project 
 
 This repository currently organizes development sketches and iterations under `/Practice`. Each folder is a focused example or step in the evolution of the system.
 
-```
-
-/Practice
-├─ RTC_LED_History_updated_esp32/          # ESP32: RTC + LED + History
-├─ V_2_1/
-├─ V_2_2_RTC_Calibrations_esp32/
-├─ V_2_3_Nano_24_reset/
-├─ V_2_4_Nano_Second_Container/
-├─ adrduino_uno_humid_on_off/
-├─ automate_calling_and_sms/
-├─ blinking_light/
-├─ check_float_level_esp32/
-├─ checking_float_reset_power_on_off/
-├─ checking_uart_esp32/
-├─ esp32_humid_on_off/
-├─ esp32_master_controller/
-├─ excercise_serial/
-├─ for_how_long_the_motor_runs/
-├─ for_how_long_the_motor_runs_esp32/
-├─ how_for_motor_runs/
-├─ libraries/
-├─ manual_pump_start_esp32/
-├─ measuring_flow_rate/
-├─ minimal_sms_check/
-├─ recieving_messages/
-├─ serial_com/
-├─ shunt_voltage_test/
-├─ simcom_module_connected_esp32/
-├─ sketch_oct3b/
-├─ sketch_sep17a/
-├─ sms_call_test/
-├─ swi/
-├─ switch_LED_ON_OFF_SMS/
-├─ testing_pump_motor_led_and_calibration_esp32/
-├─ toggle_fault_check/
-├─ updated_serial_terminal/
-├─ valve_check/
-├─ water_level_floaters/
-└─ water_sensor_stg_01/
-
-```
-
 > As the project stabilizes, these examples can be consolidated into a structured `firmware/`, `server/`, `dashboard/`, `hardware/`, and `docs/` layout.
 
 ---
