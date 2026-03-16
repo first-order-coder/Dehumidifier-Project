@@ -1,10 +1,7 @@
 # Dehumidifier-Project
 
 <p align="center">
-  <img src="Practice/swi/assest_1.jpeg" alt="Project screenshot" width="900" />
-   <img src="Practice/swi/assest_1.jpeg" alt="Project screenshot" width="900" />
-   <img src="Practice/swi/assest_1.jpeg" alt="Project screenshot" width="900" />
-   <img src="Practice/swi/assest_1.jpeg" alt="Project screenshot" width="900" />
+  <img src="Practice/swi/assest_1.jpeg" alt="Project screenshot" width="500" />
 </p>
 
 ```markdown
@@ -58,6 +55,9 @@ Pin mappings differ between sketches; see comments at the top of each example.
 To compute liters removed per pump cycle:
 
 ```
+<p align="center">
+  <img src="Practice/swi/assest_2.jpeg" alt="Project screenshot" width="900" />
+</p>
 
 liters_this_cycle = (pump_seconds / 60.0) * liters_per_minute
 
@@ -96,7 +96,9 @@ liters_this_cycle = (pump_seconds / 60.0) * liters_per_minute
 A daily summary line sent via `H` might look like:
 
 ```
-
+<p align="center">
+  <img src="Practice/swi/assest_3.jpeg" alt="Project screenshot" width="900" />
+</p>
 2025-10-16  water=2.0 L   starts=3   H1=45/56/78  H2=45/56/78  H3=45/56/78
 
 ```
@@ -129,3 +131,6 @@ The repository includes versioned example folders such as `V_2_1`, `V_2_2_*`, `V
 
 This project is open-source. Include a `LICENSE` file (e.g., MIT) at the repository root.
 ```
+<p align="center">
+  <img src="Practice/swi/assest_4.jpeg" alt="Project screenshot" width="900" />
+</p>
