@@ -1,5 +1,10 @@
-```markdown
 # Dehumidifier-Project
+
+<p align="center">
+  <img src="assets/screenshot.png" alt="Project screenshot" width="900" />
+</p>
+
+```markdown
 
 An open-source IoT controller for a pump-based dehumidifier system. The project uses an **ESP32-S3 Mini-1U** as the primary controller (Wi-Fi, optional HTTP upload) and optional **Arduino Nano** nodes for experiments. It manages one or two water containers, controls pump and valves, records **per-cycle water volume** (via calibration), supports **RTC-backed history**, and optional **GSM (SIM808)** for **SMS control** and status.
 
