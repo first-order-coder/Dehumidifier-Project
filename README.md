@@ -1,7 +1,7 @@
 # Dehumidifier-Project
 
 <p align="center">
-  <img src="Practice/swi/asset_1.jpeg" alt="Project screenshot" width="900" />
+  <img src="practice/swi/assest_1.jpeg" alt="Project screenshot" width="900" />
 </p>
 
 ```markdown
