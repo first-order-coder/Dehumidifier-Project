@@ -2,6 +2,9 @@
 
 <p align="center">
   <img src="Practice/swi/assest_1.jpeg" alt="Project screenshot" width="900" />
+   <img src="Practice/swi/assest_1.jpeg" alt="Project screenshot" width="900" />
+   <img src="Practice/swi/assest_1.jpeg" alt="Project screenshot" width="900" />
+   <img src="Practice/swi/assest_1.jpeg" alt="Project screenshot" width="900" />
 </p>
 
 ```markdown
